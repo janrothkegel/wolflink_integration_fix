@@ -1,6 +1,6 @@
 {
   "domain": "wolflink",
-  "name": "Wolf SmartSet Service Fix",
+  "name": "Wolf SmartSet Service",
   "codeowners": ["@adamkrol93"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/wolflink",
